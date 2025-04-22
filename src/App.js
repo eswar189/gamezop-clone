@@ -117,7 +117,7 @@ function GamePlayer() {
             <ins
               className="adsbygoogle"
               style={{ display: "block" }}
-              data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
+              data-ad-client="ca-pub-9480366884412883"
               data-ad-slot="1234567890"
               data-ad-format="auto"
               data-full-width-responsive="true"
@@ -130,7 +130,7 @@ function GamePlayer() {
           <ins
             className="adsbygoogle"
             style={{ display: "block" }}
-            data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
+            data-ad-client="ca-pub-9480366884412883"
             data-ad-slot="2222222222"
             data-ad-format="auto"
             data-full-width-responsive="true"
